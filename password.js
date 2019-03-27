@@ -15,7 +15,7 @@ function getInput() {
     }); 
   
 
-    // return passwordArray
+    // return newPassword
     document.getElementById("strongPassword").textContent = newPassword;
     
   }
